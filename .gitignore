@@ -266,3 +266,14 @@ __pycache__/
 
 # Cake - Uncomment if you are using it
 # tools/
+
+
+# https://github.com/dotnet/core/blob/master/.gitignore
+*.swp
+*.*~
+bin/
+obj/
+project.lock.json
+.DS_Store
+*.pyc
+.vscode
